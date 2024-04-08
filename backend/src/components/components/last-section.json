@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_components_last_sections",
+  "info": {
+    "displayName": "last_section",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
