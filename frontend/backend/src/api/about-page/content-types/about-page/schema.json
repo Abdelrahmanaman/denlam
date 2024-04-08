@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_pages",
+  "info": {
+    "singularName": "about-page",
+    "pluralName": "about-pages",
+    "displayName": "about_page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "about_content": {
+      "type": "dynamiczone",
+      "components": [
+        "about.about-me",
+        "about.inspiration"
+      ]
+    }
+  }
+}
